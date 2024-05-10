@@ -1,21 +1,19 @@
 {
-  "Authors": [
-    "Adam Raikes",
-    "First2 Last2",
-    "..."
-  ],
-  "BIDSVersion": "1.8.0",
-  "DatasetDOI": "TODO: eventually a DOI for the dataset",
-  "Funding": [
-    "TODO",
-    "GRANT #1",
-    "GRANT #2"
-  ],
-  "HowToAcknowledge": "",
-  "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
-  "Name": "Sequence test for multiband DWI and magnetization transfer sequence",
-  "ReferencesAndLinks": [
-    "TODO",
-    "List of papers or websites"
-  ]
+    "Authors": [
+        "Adam Raikes"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "Funding": [
+        "TODO",
+        "GRANT #1",
+        "GRANT #2"
+    ],
+    "HowToAcknowledge": "",
+    "License": "CC0",
+    "Name": "Sequence test for multiband DWI and magnetization transfer sequence",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ]
 }
