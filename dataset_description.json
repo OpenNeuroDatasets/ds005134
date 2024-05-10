@@ -4,11 +4,7 @@
     ],
     "BIDSVersion": "1.8.0",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
-    "Funding": [
-        "TODO",
-        "GRANT #1",
-        "GRANT #2"
-    ],
+    "Funding": [],
     "HowToAcknowledge": "",
     "License": "CC0",
     "Name": "Sequence test for multiband DWI and magnetization transfer sequence",
