@@ -9,5 +9,7 @@
     "License": "CC0",
     "Name": "Sequence test for multiband DWI and magnetization transfer sequence",
     "ReferencesAndLinks": [],
-    "EthicsApprovals": []
+    "EthicsApprovals": [
+        "Data acquisition was obtained under institutional approval from the University of Arizona. All participants provided written informed consent."
+    ]
 }
